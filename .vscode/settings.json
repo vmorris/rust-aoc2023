@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.cargo.buildScripts.invocationLocation": "root",
+    "rust-analyzer.linkedProjects": [
+        "aoc2023/Cargo.toml",
+        "newday/Cargo.toml",
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false,
+}
